@@ -72,6 +72,8 @@ python3 start.py 工具
 **克隆并安装脚本**
 
 ```shell script
-cd ddos
+wget https://github.com/a12cn/ddos/archive/refs/heads/main.zip
+unzip main.zip
+cd ddos-main
 pip install -r requirements.txt
 ```
